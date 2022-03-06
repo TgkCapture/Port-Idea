@@ -109,7 +109,7 @@
   </v-col>
   <v-col md="3" offset-md="3">
     <v-card class="pa-2 py-12" outlined tile height="250px" color="#1E1E1E">
-      <v-img src="2.png" contain></v-img>
+      <v-img src="studyportal.png" contain></v-img>
     </v-card>
   </v-col>
   <v-col md="3">
@@ -137,7 +137,7 @@
   </v-col>
   <v-col md="3" offset-md="3">
     <v-card class="pa-2 py-12" outlined tile height="250px" color="#1E1E1E">
-      <v-img src="3.png" contain></v-img>
+      <v-img src="accounts.jpg" contain></v-img>
     </v-card>
   </v-col>
   <v-col md="3">
@@ -187,7 +187,7 @@
   <v-toolbar class="topTolbar" color="#111111" dark flat>
     <div style="position: absolute; margin-left: auto; margin-right: auto; left: 0; right:0; text-align: center;">
       <v-btn text >Home</v-btn>
-      <v-btn text>project</v-btn>
+      <v-btn text>projects</v-btn>
       <v-btn text>About</v-btn>
       <v-btn text>Contact</v-btn>
 
